@@ -1,1 +1,26 @@
 /* your code */
+*{
+	margin:0;
+	padding:0;
+}
+#table{
+	border: 1px solid black;
+	line-height:30px;
+	border-radius:5px;
+}
+#header-row{
+	background-color:aqua;
+	padding:0;
+	border:0;
+}
+th{
+	padding:0;
+	border:0;
+	
+}
+.name-cell{
+	background-color:red;
+}
+.rowStyle{
+	border: 1px solid black;
+}
